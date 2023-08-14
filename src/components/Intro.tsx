@@ -7,7 +7,7 @@ export default function Intro() {
         The Himalayan Spirit
       </h2>
       <div className="pt-5">
-        <p className="text-xl text-slate-950 font-semibold">
+        <p className="text-xl text-slate-950 font-semibold text-center">
           Two siblings finding the utter serenity of Uttarakhand. Two siblings
           finding the utter serenity of Uttarakhand. Two siblings finding the
           utter serenity of Uttarakhand. Two siblings finding the utter serenity

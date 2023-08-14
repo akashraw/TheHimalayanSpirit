@@ -77,7 +77,7 @@ export default function NavBar() {
               </li>
               <li>
                 <a
-                  className="hover:text-sky-500 dark:hover:text-sky-400 cursor-pointer"
+                  className="hover:text-sky-500 dark:hover:text-sky-400 cursor-pointer pr-2"
                   // href="/blog"
                 >
                   Contact us
@@ -85,7 +85,7 @@ export default function NavBar() {
               </li>
             </ul>
           </nav>
-          <div className="flex items-center border-l border-slate-200 ml-6 pl-6 dark:border-slate-800">
+          {/* <div className="flex items-center border-l border-slate-200 ml-6 pl-6 dark:border-slate-800">
             <label
               className="sr-only"
               id="headlessui-listbox-label-:R1jeilb6:"
@@ -141,7 +141,7 @@ export default function NavBar() {
                 </svg>
               </span>
             </button>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
